@@ -6,7 +6,7 @@
 
 > Git 是目前世界上最先进的分布式版本控制系统 
 
-## Github flow 工作流程
+## Github flow 工作流程 (必须掌握)
 
 https://zhuanlan.zhihu.com/p/39148914
 
