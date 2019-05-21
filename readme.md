@@ -6,11 +6,9 @@
 
 > Git 是目前世界上最先进的分布式版本控制系统 
 
-## 更新记录 
+## Github flow 工作流程
 
-2016 年 04 月 22 日 - 初稿 
-
-阅读原文 - http://wsgzao.github.io/post/git/ 
+https://zhuanlan.zhihu.com/p/39148914
 
 **扩展阅读** 
 
